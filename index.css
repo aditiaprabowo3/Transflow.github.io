@@ -3,9 +3,6 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-ul li {
-    padding: 0 15px;
-}
 .navbar {
     margin: 7px 0;
 }
@@ -101,6 +98,16 @@ footer h5 {
     .section-feature .text-content p {
         font-size: 12px;
     }
+    .navbar .bt {
+        margin-top: 17px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 10px;
+    }
+
+    .navbar ul li {
+        padding: 0px;
+    }
  }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 400px) { 
@@ -162,6 +169,15 @@ footer h5 {
     .section-feature .text-content p {
         font-size: 15px;
     }
+    .navbar .bt {
+        margin-top: 17px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 10px;
+    }
+    .navbar ul li {
+        padding: 0px;
+    }
  }
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
@@ -222,6 +238,16 @@ footer h5 {
     }
     .section-feature .text-content p {
         font-size: 15px;
+    }
+    .navbar .bt {
+        margin-top: 17px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 10px;
+    }
+
+    .navbar ul li {
+        padding: 0px;
     }
  }
 
@@ -285,6 +311,15 @@ footer h5 {
     .section-feature .text-content p {
         font-size: 16px;
     }
+    .navbar .bt {
+        margin-top: 17px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 10px;
+    }
+    .navbar ul li {
+        padding: 0px;
+    }
  }
 
 /* // Large devices (desktops, 992px and up) */
@@ -346,6 +381,15 @@ footer h5 {
     }
     .section-feature .text-content p {
         font-size: 16px;
+    }
+    .navbar .bt {
+        margin-top: 0px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 0px;
+    }
+    .navbar ul li {
+        padding: 0 15px;
     }
  }
 
@@ -412,6 +456,15 @@ footer h5 {
     }
     .section-feature .text-content p {
         font-size: 16px;
+    }
+    .navbar .bt {
+        margin-top: 0px;
+    }
+    .section-banner .text-content .btn{
+        margin-bottom: 0px;
+    }
+    .navbar ul li {
+        padding: 0 15px;
     }
  }
 
